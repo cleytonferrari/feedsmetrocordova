@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is auto-generated, do not edit! -jm -->
+<CordovaSourceDictionary>
+    <FilePath Value="www\cordova-1.7.0.js"/>
+    <FilePath Value="www\css\base.css"/>
+    <FilePath Value="www\css\ios\jquery.mobile-1.1.0.css"/>
+    <FilePath Value="www\css\ios\jquery.mobile-1.1.0.min.css"/>
+    <FilePath Value="www\css\ios\jquery.mobile.structure-1.1.0.css"/>
+    <FilePath Value="www\css\ios\jquery.mobile.structure-1.1.0.min.css"/>
+    <FilePath Value="www\css\ios\jquery.mobile.theme-1.1.0.css"/>
+    <FilePath Value="www\css\ios\jquery.mobile.theme-1.1.0.min.css"/>
+    <FilePath Value="www\css\metro\jquery.mobile.metro.theme.css"/>
+    <FilePath Value="www\css\metro\jquery.mobile.metro.theme.init.js"/>
+    <FilePath Value="www\css\progress-bar.css"/>
+    <FilePath Value="www\css\toggle-button.css"/>
+    <FilePath Value="www\index.html"/>
+    <FilePath Value="www\js\jquery-1.6.4.js"/>
+    <FilePath Value="www\js\jquery.globalstylesheet.js"/>
+    <FilePath Value="www\js\jquery.js"/>
+    <FilePath Value="www\js\jquery.mobile.js"/>
+    <FilePath Value="www\js\jquery.mobile.themeswitcher.js"/>
+    <FilePath Value="www\js\phonegap-1.2.0.js"/>
+    <FilePath Value="www\js\progress-bar.js"/>
+    <FilePath Value="www\js\toggle-button.js"/>
+    <FilePath Value="www\master.css"/>
+</CordovaSourceDictionary>
